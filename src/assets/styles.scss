@@ -1,0 +1,14 @@
+@import "eyeglass-pattern-lib";
+@import "eyeglass-pattern-lib/foo/bar";
+
+body {
+  margin:0;
+  padding:0;
+  background-image: url("images/pattern-1.jpg");
+}
+
+.body {
+  margin-top:20px;
+  background-color:white;
+  width:100%
+}
